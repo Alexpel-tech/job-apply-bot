@@ -1,0 +1,33 @@
+# --- SEGURANÇA (Chaves e Senhas) ---
+.env
+.env.*
+*.env
+
+# --- AMBIENTE VIRTUAL E DEPENDÊNCIAS ---
+venv/
+.venv/
+env/
+bin/
+lib/
+include/
+
+# --- CACHE E COMPILADOS PYTHON ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- DADOS DO BOT E SESSÕES (Crítico) ---
+data/
+logs/
+sessions/
+playwright/.auth/
+*.csv
+*.log
+
+# --- SISTEMA OPERACIONAL ---
+.DS_Store
+Thumbs.db
+desktop.ini

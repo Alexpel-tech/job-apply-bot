@@ -1,0 +1,46 @@
+search:
+  keywords:
+    - "Auxiliar Administrativo"
+    - "Assistente Administrativo"
+    - "Desenvolvedor Júnior"
+    - "Estágio TI"
+
+  locations:
+    - "Brasil"
+    - "Remoto"
+
+  remote_only: false
+
+  experience_levels:
+    - "internship"
+    - "entry"
+
+  job_types:
+    - "full_time"
+    - "contract"
+
+  date_posted: "week"
+  max_applications: 20
+
+blacklist_companies:
+  - "Empresa Exemplo"
+
+blacklist_keywords:
+  - "multinível"
+  - "porta a porta"
+
+ai:
+  model_key: "r1"
+  cover_letter_language: "pt-BR"
+  max_letter_words: 150
+
+bot:
+  headless: false
+  slow_mo: 800
+  delay_between_apps: 15
+  delay_random_extra: 8
+
+platforms:
+  linkedin: true
+  glassdoor: true
+  infojobs: true

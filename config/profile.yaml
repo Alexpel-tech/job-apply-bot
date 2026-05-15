@@ -1,0 +1,50 @@
+personal:
+  name: "Seu Nome"
+  email: "seuemail@email.com"
+  phone: "(00) 00000-0000"
+  city: "Sua Cidade"
+  state: "Seu Estado"
+  linkedin: "linkedin.com/in/seuperfil"
+  github: "github.com/seuusuario"
+
+summary: >
+  Profissional com interesse em tecnologia, automação e desenvolvimento
+  de sistemas. Possui facilidade de aprendizado, boa comunicação e
+  interesse em crescimento profissional.
+
+experience:
+  - title: "Cargo ou Área"
+    company: "Empresa Exemplo"
+    period: "2023 - atual"
+    description: >
+      Experiência com atendimento, organização de processos,
+      suporte operacional e utilização de ferramentas digitais.
+
+skills:
+  office:
+    - "Excel"
+    - "Word"
+    - "PowerPoint"
+
+  tech:
+    - "Python"
+    - "Git"
+    - "Automação"
+    - "APIs"
+
+  soft_skills:
+    - "Comunicação"
+    - "Organização"
+    - "Proatividade"
+
+education:
+  - degree: "Curso Superior ou Técnico"
+    institution: "Instituição de Ensino"
+    status: "Em andamento"
+
+languages:
+  - language: "Português"
+    level: "Nativo"
+
+  - language: "Inglês"
+    level: "Intermediário"
